@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:sgnjuguna@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [Budget Calculator | CSCI 301](project1)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -31,10 +31,10 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Edward Snowden](https://github.com/sgnjuguna/csci-301-spring-2022/blob/master/Edward%20Snowden.md)
 
--   **Class:**  
--   **Grade:**
+-   **Class:405  
+-   **Grade:100
 
 ### [Paper 2 Title](/pdf/sample_presentation.pdf)
 
