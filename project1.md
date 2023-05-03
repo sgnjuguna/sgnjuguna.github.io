@@ -33,11 +33,8 @@ The Program test a file for words based on a given criteria
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+
 
 ## 3. Additional Considerations
 
