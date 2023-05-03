@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Budget Calculator | CSCI 301](project1)
 
-![pexels-pixabay-20.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fcalculator-and-pen-on-table-209224%2F&psig=AOvVaw2tcGe_sxdIBrn9f8-6n9qJ&ust=1683209561355000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJCvobmq2f4CFQAAAAAdAAAAABAD)
+![pexels-pixabay-20.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXkKvoZJtFdadHLAGBsLlpKwD3jXIRrRGT0A&usqp=CAU)
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
