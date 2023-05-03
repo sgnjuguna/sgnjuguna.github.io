@@ -41,10 +41,10 @@ Ethics Papers
 -   **Class:405 
 -   **Grade:100
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Reflections](https://github.com/sgnjuguna/csci-301-spring-2022/blob/master/stephennjuguna.md)
 
--   **Class:** 
--   **Grade:**
+-   **Class:496 
+-   **Grade:95
 
 ---
 
