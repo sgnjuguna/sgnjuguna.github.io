@@ -28,7 +28,7 @@ Ethics Papers
 ### [Reflections](https://github.com/sgnjuguna/csci-301-spring-2022/blob/master/stephennjuguna.md)
 
 -   **Class:496 
--   **Grade:95
+-   **Grade:90
 
 ---
 
