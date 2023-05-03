@@ -36,7 +36,7 @@ Ethics Papers
 -   **Class:405  
 -   **Grade:100
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Societies Dependence on Electronics; Exploits and Mitigation](https://github.com/sgnjuguna/csci-301-spring-2022/blob/master/Societies%20Dependence%20on%20Electronics%3B%20Exploits%20and%20Mitigation.md)
 
 -   **Class:** 
 -   **Grade:**
