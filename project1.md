@@ -1,17 +1,17 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Project 1 Sorting
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class:301
+-   **Grade:100
+-   **Language(s):bash
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/sgnjuguna/csci-301-spring-2022/commit/fcc36553510f81cfdb856c727c726458a2713f4f#diff-02d124c25c7174a703518f0b5e8d97b0ecc1b203f9cbda216cbadc6978b358f2)  
+    (Please [email me](mailto:sgnjuguna@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Program that Sorts words in a given file using bash language
 
 ## How to compile and run the program
 
